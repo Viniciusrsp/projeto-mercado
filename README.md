@@ -11,7 +11,11 @@
 - André Luiz Augusto  
 - Luiz Gabriel Santos de Sá da Silva  
 - Weder Pereira dos Santos  
-- Murilo Augusto Seripieri  
+- Murilo Augusto Seripieri
+- Igor Alexandre Paula Alves
+- Erick Moreira do Nascimento
+- Nicole Lucio Martins
+- Mateus Pedrosa Saudanha
 
 **Versão/Data:** 1.0 | 04/03/2026
 
