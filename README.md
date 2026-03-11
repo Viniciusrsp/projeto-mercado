@@ -4,7 +4,7 @@
 
 ## 1. Identificação do Projeto
 
-**Nome do projeto:** Controle de Estoque para Mercado  
+**Nome do projeto:** Mercado Bom Preço  
 
 **Grupo (nomes):**  
 - Vinicius Ribeiro de Souza Pinto  
@@ -17,7 +17,7 @@
 - Nicole Lucio Martins
 - Mateus Pedrosa Saudanha
 
-**Versão/Data:** 1.0 | 04/03/2026
+**Versão/Data:** 1.1 | 11/03/2026
 
 ---
 
