@@ -173,7 +173,7 @@ Criar um **sistema desktop simples para controle de estoque**, eliminando as pla
 | RF05 | Registrar saída / baixa de estoque |
 | RF06 | Visualizar estoque atual |
 | RF07 | Alertar estoque baixo |
-| RF08 | Gerar relatório simples de estoque baixo |
+| RF08 | Gerar relatório mensal |
 
 ---
 
@@ -183,10 +183,9 @@ Criar um **sistema desktop simples para controle de estoque**, eliminando as pla
 |------|------|
 | RN01 | Não pode existir dois produtos com o mesmo código de barras |
 | RN02 | Preço de venda deve ser maior que o preço de custo |
-| RN03 | Estoque nunca pode ficar negativo |
-| RN04 | Categoria deve existir antes de cadastrar produto |
-| RN05 | Estoque mínimo deve ser maior que zero |
-| RN06 | Toda movimentação registra data e usuário |
+| RN03 | Categoria deve existir antes de cadastrar produto |
+| RN04 | Estoque mínimo deve ser maior que zero |
+| RN05 | Toda movimentação registra data e usuário |
 
 ---
 
