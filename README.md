@@ -17,7 +17,7 @@
 - Nicole Lucio Martins
 - Mateus Pedrosa Saudanha
 
-**Versão/Data:** 1.1 | 11/03/2026
+**Versão/Data:** 1.2 | 26/03/2026
 
 ---
 
@@ -257,7 +257,7 @@ Entidade lógica (não persistida).
 | UC03 | Consultar estoque | Dona / Funcionário | Buscar produtos e quantidades |
 | UC04 | Registrar entrada | Dona / Funcionário | Adicionar quantidade ao estoque |
 | UC05 | Registrar saída | Dona / Funcionário | Reduzir estoque por venda ou perda |
-| UC06 | Visualizar alertas | Dona | Ver produtos com estoque baixo |
+| UC06 | Visualizar alertas | Dona / Funcionário | Ver produtos com estoque baixo |
 
 ---
 
